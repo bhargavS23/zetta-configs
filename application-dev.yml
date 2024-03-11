@@ -20,7 +20,7 @@ spring:
 build:
   version: 2.0    
                
-  accounts:
+accounts:
   message: "Welcome to ZettaBank accounts related APIs"
   contactDetails:
     name: "Bhargav S - Developer"
