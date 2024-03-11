@@ -1,0 +1,12 @@
+        
+build:
+  version: 3.0
+  
+accounts:
+  message: "Welcome to ZettaBank accounts related APIs"
+  contactDetails:
+    name: "Bhargav S - QA"
+    email: "bhargav.s@zettabank.in"
+  onCallSupport:
+    - 9887654787
+    - 9988654317  
