@@ -1,7 +1,7 @@
 build:
   version: 3.0    
 accounts:
-  message: "Welcome to ZettaBank accounts Testing related APIs"
+  message: "Welcome to ZettaBank accounts Testing related APIs from git"
   contactDetails:
     name: "Bhargav S - QA"
     email: "bhargav.s@zettabank.in"
