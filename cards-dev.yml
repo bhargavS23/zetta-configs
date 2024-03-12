@@ -1,0 +1,10 @@
+build:
+  version: 2.0.1    
+cards:
+  message: "Welcome to ZettaBank accounts DEVELOPMENT related APIs from git"
+  contactDetails:
+    name: "Chetan - DEVELOPER"
+    email: "chetan@zettabank.COM"
+  onCallSupport:
+    - 9887654790
+    - 9988654390
