@@ -1,10 +1,10 @@
 build:
-  version: 2.0.0    
+  version: 2.0.1    
 accounts:
-  message: "Welcome to ZettaBank accounts dev related APIs from git"
+  message: "Welcome to ZettaBank accounts DEVELOPMENT related APIs from git"
   contactDetails:
-    name: "Bhargav S - Developer"
-    email: "bhargav.s@zettabank.in"
+    name: "Bhargav S - DEVELOPER"
+    email: "bhargav.s@zettabank.COM"
   onCallSupport:
-    - 9887654787
-    - 9988654317
+    - 9887654788
+    - 9988654318
