@@ -1,0 +1,10 @@
+build:
+  version: 3.3    
+accounts:
+  message: "Welcome to ZettaBank loans Testing related APIs from git"
+  contactDetails:
+    name: "Bhargav S - Tester"
+    email: "bhargav.s@zettabank.in"
+  onCallSupport:
+    - 9887654789
+    - 9988654319
