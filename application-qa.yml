@@ -1,10 +1,10 @@
 build:
-  version: 3.2    
+  version: 3.3    
 accounts:
-  message: "Welcome to ZettaBank accounts QA related APIs from git"
+  message: "Welcome to ZettaBank accounts Testing related APIs from git"
   contactDetails:
-    name: "Bhargav S - QA"
+    name: "Bhargav S - Tester"
     email: "bhargav.s@zettabank.in"
   onCallSupport:
-    - 9887654788
-    - 9988654318
+    - 9887654789
+    - 9988654319
