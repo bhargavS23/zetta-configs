@@ -1,6 +1,6 @@
 build:
   version: 2.0.1    
-accounts:
+loans:
   message: "Welcome to ZettaBank loans DEVELOPMENT related APIs from git"
   contactDetails:
     name: "Bhargav S - DEVELOPER"
