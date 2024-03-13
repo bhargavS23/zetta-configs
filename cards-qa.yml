@@ -1,6 +1,6 @@
 build:
   version: 3.3.3    
-accounts:
+cards:
   message: "Welcome to ZettaBank cards Testing related APIs from git"
   contactDetails:
     name: "Chetan - Tester"
