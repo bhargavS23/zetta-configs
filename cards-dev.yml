@@ -1,7 +1,7 @@
 build:
   version: 2.0.1    
 cards:
-  message: "Welcome to ZettaBank accounts DEVELOPMENT related APIs from git"
+  message: "Welcome to ZettaBank cards DEVELOPMENT related APIs from git"
   contactDetails:
     name: "Chetan - DEVELOPER"
     email: "chetan@zettabank.COM"
