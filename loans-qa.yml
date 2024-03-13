@@ -1,6 +1,6 @@
 build:
   version: 3.3    
-accounts:
+loans:
   message: "Welcome to ZettaBank loans Testing related APIs from git"
   contactDetails:
     name: "Bhargav S - Tester"
